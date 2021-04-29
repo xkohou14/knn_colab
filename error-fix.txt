@@ -1,0 +1,9 @@
+ 
+ModuleNotFoundError: No module named 'skbuild'
+ - running install.sh
+ - problem with old pip
+ - activate env source ./path.sh
+    - then: pip install --upgrade pip
+ - run install.sh again.
+ 
+ 

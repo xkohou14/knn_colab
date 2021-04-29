@@ -1,0 +1,28 @@
+tmp-data-500x500-from-10-pictures/
+├── classes
+│   ├── P0012-10.png
+│   ├── P0012-11.png
+│   │   ...
+│   └── P2477-9.png
+├── objects
+│   ├── P0012-10.png
+│   ├── P0012-11.png
+│   │   ...
+│   └── P2477-9.png
+├── origin-classes-v-join
+│   ├── P0012-10.png
+│   ├── P0012-11.png
+│   │   ...
+│   └── P2477-9.png
+├── origin-objects-v-join
+│   ├── P0012-10.png
+│   ├── P0012-11.png
+│   │   ...
+│   └── P2477-9.png
+└── origins
+    ├── P0012-10.png
+    ├── P0012-11.png
+    │   ...
+    └── P2477-9.png
+
+5 directories, 870 files
